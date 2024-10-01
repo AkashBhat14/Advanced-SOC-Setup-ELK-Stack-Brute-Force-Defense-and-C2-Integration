@@ -1,5 +1,3 @@
-# SOC Setup Project: Enhanced Cybersecurity Monitoring and Response
-
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
