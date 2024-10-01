@@ -3,6 +3,7 @@
 - [Technologies Used](#technologies-used)
 - [Daily Activities, Skills, and Outcomes](#daily-activities-skills-and-outcomes)
 - [Conclusion](#conclusion)
+- [License](#license)
 
 ## Project Overview
 This project involves the implementation of a Security Operations Center (SOC) environment using the ELK Stack (Elasticsearch, Logstash, Kibana), Elastic Agents, and a ticketing system (osTicket) to enhance cybersecurity monitoring and incident response capabilities. The objective is to create a robust infrastructure for log collection, threat detection, and incident management.
@@ -118,15 +119,21 @@ This project involves the implementation of a Security Operations Center (SOC) e
 - **Skills Acquired**: C2 framework setup and configuration.
 - **Outcome**: Established a controlled environment for simulating attacks.
 
+![Mythic Web GUI](mythic_web_GUI_2 ( day 20).jpg)
+
 ### Day 21: Perform Brute Force Attack Simulation
 - **Activity**: Conducted a simulated brute force attack using Kali tools.
 - **Skills Acquired**: Attack simulation and post-exploitation techniques.
 - **Outcome**: Learned how to establish and maintain a foothold in a compromised system.
 
+![Crowbar RDP Brute Force](crowbar rdp brute force(day 21).jpg)
+
 ### Day 22: Create Alerts Based on Mythic Activity
 - **Activity**: Developed alerts in Kibana based on Mythic telemetry.
 - **Skills Acquired**: Event correlation and alerting.
 - **Outcome**: Enhanced incident detection capabilities based on C2 activity.
+
+![Exfiltration Using C2 Session](Exfiltration using c2 session(day 21).jpg)
 
 ### Day 23: Introduction to Ticketing Systems
 - **Activity**: Researched the role of ticketing systems in incident management.
@@ -143,10 +150,21 @@ This project involves the implementation of a Security Operations Center (SOC) e
 - **Skills Acquired**: API integration and automation of workflows.
 - **Outcome**: Automated incident tracking for alerts generated in the ELK stack.
 
+![osTicket Test Payload](osTicket test payload(day 25).jpg)
+
 ### Day 26-29: Incident Analysis and Response
 - **Activity**: Analyzed and responded to brute force attacks and Mythic telemetry.
 - **Skills Acquired**: Threat hunting and incident response.
 - **Outcome**: Improved detection and response capabilities for ongoing threats.
 
+![Test Payload Ticket Created](TestPayload(ticket) created(day25).jpg)
+
+### Day 30: Create MITRE Attack Mapping
+- **Activity**: Developed a mapping of attack techniques using the MITRE framework.
+- **Skills Acquired**: Understanding of attack vectors and detection strategies.
+- **Outcome**: Enhanced threat analysis capabilities based on MITRE techniques.
+
+![MITRE Attack Mapping](MITRE_attack_mapping.jpg)
+
 ## Conclusion
-This SOC setup project successfully demonstrated the integration of various cybersecurity tools to enhance monitoring and incident response capabilities. The project provided hands-on experience with the ELK stack, endpoint management, and threat detection strategies, essentials skills to deter attackers and prevent cyber crime.
+This SOC setup project successfully demonstrated the integration of various cybersecurity tools to enhance monitoring and incident response capabilities. The project provided hands-on experience with the ELK stack, endpoint management, and threat detection strategies, essential skills for a career in cybersecurity.
