@@ -1,0 +1,1 @@
+# Advanced-SOC-Setup-ELK-Stack-Brute-Force-Defense-and-C2-Integration
