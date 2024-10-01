@@ -3,7 +3,6 @@
 - [Technologies Used](#technologies-used)
 - [Daily Activities, Skills, and Outcomes](#daily-activities-skills-and-outcomes)
 - [Conclusion](#conclusion)
-- [License](#license)
 
 ## Project Overview
 This project involves the implementation of a Security Operations Center (SOC) environment using the ELK Stack (Elasticsearch, Logstash, Kibana), Elastic Agents, and a ticketing system (osTicket) to enhance cybersecurity monitoring and incident response capabilities. The objective is to create a robust infrastructure for log collection, threat detection, and incident management.
