@@ -1,3 +1,5 @@
+# SOC Setup Project: Enhanced Cybersecurity Monitoring and Response
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
@@ -24,6 +26,8 @@ This project involves the implementation of a Security Operations Center (SOC) e
 - **Activity**: Designed a logical diagram illustrating the SOC architecture and data flow.
 - **Skills Acquired**: Diagramming and architectural design.
 - **Outcome**: A visual representation to guide the implementation of the SOC setup.
+
+![VPC Logical Diagram](VPC_logical_diagram.png)
 
 ### Day 2: Learn About ELK Stack
 - **Activity**: Researched the components of the ELK stack (Elasticsearch, Logstash, Kibana).
@@ -109,6 +113,8 @@ This project involves the implementation of a Security Operations Center (SOC) e
 - **Activity**: Developed an attack diagram based on the MITRE framework.
 - **Skills Acquired**: Mapping attacks to established frameworks.
 - **Outcome**: Created a structured approach to analyze and replicate attack scenarios.
+
+![Attack Diagram](AttackDiagram(lightmode).jpg)
 
 ### Day 20: Setup Mythic Server
 - **Activity**: Installed and configured the Mythic C2 framework.
