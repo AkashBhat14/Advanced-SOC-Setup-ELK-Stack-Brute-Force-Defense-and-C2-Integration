@@ -1,3 +1,5 @@
+# SOC Setup Project: Enhanced Cybersecurity Monitoring and Response
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
@@ -168,3 +170,6 @@ This project involves the implementation of a Security Operations Center (SOC) e
 
 ## Conclusion
 This SOC setup project successfully demonstrated the integration of various cybersecurity tools to enhance monitoring and incident response capabilities. The project provided hands-on experience with the ELK stack, endpoint management, and threat detection strategies, essential skills for a career in cybersecurity.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
